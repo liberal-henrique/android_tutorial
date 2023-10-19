@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_Introduction</string>
+    <string name="result">Result</string>
+    <string name="type_your_name">Type your name...</string>
+    <string name="send">SEND</string>
+    <string name="hello_name">Hello, %1$s!</string>
+</resources>
