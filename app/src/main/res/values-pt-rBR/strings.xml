@@ -6,4 +6,7 @@
     <string name="send">ENVIAR</string>
     <string name="hello_name">Olá, %1$s!</string>
     <string name="send_to_result_screen">Enviar para tela de Resultados</string>
+    <string name="open_screen_to_get_resul">Abrir tela para receber resultados</string>
+    <string name="no">NÃO</string>
+    <string name="yes">SIM</string>
 </resources>
